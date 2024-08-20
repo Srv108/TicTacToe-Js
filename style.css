@@ -1,0 +1,9 @@
+.box{
+    padding : 40px;
+    background-color: yellow;
+    /* display: flex; */
+}
+div{
+    display: flex;
+    justify-content: flex-end;
+}
